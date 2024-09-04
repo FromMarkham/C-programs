@@ -14,3 +14,10 @@ char ma() {
 
     return 'i';
 }
+
+float ma() {
+    // Write C++ code here
+    std::cout << "Try programiz.pro";
+
+    return 0.0;
+}
