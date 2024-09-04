@@ -1,13 +1,12 @@
 #include <iostream>
 using namespace std; 
 
-void mannnnn(){
 
-}
 
 int main() {
     // Write C++ code here
     cout << "Try programiz.pro";
+    ma();
 
     return 0;
 }
