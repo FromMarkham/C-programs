@@ -15,7 +15,7 @@ char ma() {
     return 'i';
 }
 
-float ma() {
+float may() {
     // Write C++ code here
     std::cout << "Try programiz.pro";
 
