@@ -1,7 +1,16 @@
-#include <iostream> 
+// Online C++ compiler to run C++ program online
+#include <iostream>
 
-int main(){
-  std::cout<<"kkkkkkkkkkkkkkkkkk";
-  return 0;
+int main() {
+    // Write C++ code here
+    std::cout << "Try programiz.pro";
+
+    return 0;
 }
 
+char ma() {
+    // Write C++ code here
+    std::cout << "Try programiz.pro";
+
+    return 'i';
+}
